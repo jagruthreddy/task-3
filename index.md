@@ -7,4 +7,5 @@ I want to join because it looks like a good opportunity to work with faculty in 
 -**What are your interets?**
 i am intrested in gameing industry and to know about more things
 
-**Bold** and _Italic_ and `Code` text
+-**What do you want to work when you join club and why?**
+I want to work on my own intrests as I mentioned above and I also want to know about the web development 
